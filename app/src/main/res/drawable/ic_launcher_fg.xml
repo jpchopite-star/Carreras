@@ -1,0 +1,8 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- abstract circuit loop with a car dot -->
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="5" android:strokeLineCap="round"
+        android:pathData="M34,62c0,-14 10,-22 22,-18s16,-8 22,2s-4,22 -18,22s-26,8 -26,-6z" />
+    <path android:fillColor="#FF3B30" android:pathData="M78,46m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+</vector>

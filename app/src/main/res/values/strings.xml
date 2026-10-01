@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Próxima Carrera</string>
+    <string name="wallpaper_description">Cuenta regresiva animada hasta la próxima carrera del campeonato</string>
+    <string name="eyebrow">FONDO DE PANTALLA ANIMADO</string>
+    <string name="loading">Actualizando calendario…</string>
+    <string name="next_is">Próxima: %1$s · Ronda %2$d</string>
+    <string name="no_races">No hay carreras próximas en el calendario</string>
+    <string name="offline">Sin conexión · usando el calendario guardado</string>
+    <string name="preview_hint">Vista previa en vivo · tócala para cambiar de sesión</string>
+    <string name="apply">Establecer como fondo de pantalla</string>
+    <string name="pick_manually">Elige «Próxima Carrera» en la lista de fondos animados</string>
+    <string name="sec_color">COLOR DE ACENTO</string>
+    <string name="sec_position">POSICIÓN DE LA CUENTA REGRESIVA</string>
+    <string name="pos_top">Arriba</string>
+    <string name="pos_center">Centro</string>
+    <string name="pos_bottom">Abajo</string>
+    <string name="sec_show">MOSTRAR</string>
+    <string name="sw_seconds">Segundos</string>
+    <string name="sw_track">Circuito animado</string>
+    <string name="sw_credit">Firma «By Juan Diaz»</string>
+    <string name="refresh">Actualizar calendario</string>
+    <string name="footer">Calendario: Jolpica (api.jolpi.ca), se actualiza solo cada pocas horas. Horas mostradas en la zona horaria del teléfono. Proyecto personal, sin relación oficial con la categoría ni sus equipos.\n\nBy Juan Diaz</string>
+</resources>
